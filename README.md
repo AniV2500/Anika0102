@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Anika
 - 👀 I’m interested in Machine Learning and Cloud based services
-- 🌱 I’m currently learning Machine learning and Data structures and Algorithms
-- 💞️ I’m looking to collaborate on projects in the domain metioned above
+- 🌱 I’m currently learning Machine learning and Data structures Algorithms
+- 💞️ I’m looking to collaborate on projects in the domain mentioned above
 - 📫 You can reach me https://www.linkedin.com/in/anika-verma/ (or) DM me on my insta handel https://www.instagram.com/alexa.play.ghazal/
 
 <!---
